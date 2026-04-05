@@ -68,11 +68,11 @@ export const FAQPage = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="mailto:support@shoeshub.com" className="text-orange-600 hover:text-orange-700 font-medium">
-              Email: support@shoeshub.com
+              Email: melakmebit75@gmail.com
             </a>
             <span className="hidden sm:block text-gray-400">|</span>
-            <a href="tel:+251912345678" className="text-orange-600 hover:text-orange-700 font-medium">
-              Phone: +251 91 234 5678
+            <a href="tel:+251973921904" className="text-orange-600 hover:text-orange-700 font-medium">
+              Phone: +251 97 392 1904
             </a>
           </div>
         </div>
