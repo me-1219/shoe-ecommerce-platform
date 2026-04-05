@@ -239,8 +239,8 @@ export const HomePage = () => {
             <div>
               <h3 className="font-medium mb-4">Contact</h3>
               <div className="space-y-2 text-gray-400 text-sm">
-                <p>Email: support@shoeshub.com</p>
-                <p>Phone: +251 91 234 5678</p>
+                <p>Email:melakmebit75@gmail.com</p>
+                <p>Phone: +251 917 392 1904</p>
                 <p>Addis Ababa, Ethiopia</p>
               </div>
             </div>
