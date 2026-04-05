@@ -88,13 +88,13 @@ export const AdminLoginPage = () => {
               </div>
             </div>
 
-            <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
+            {/* <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
               <p className="text-sm text-orange-800">
                 <strong>Demo Credentials:</strong><br />
                 Email: admin@shoes.com<br />
                 Password: admin123
               </p>
-            </div>
+            </div> */}
 
             <Button
               type="submit"
