@@ -19,13 +19,13 @@ export const HomePage = () => {
                 Spring Collection 2026
               </div>
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
-                Mulusew Fashion Shoes
+                 Fashion Shoes
               </h1>
               <p className="text-xl text-gray-300 mb-8">
                Quality, comfort, and modern design for every step you take.
               </p>
               <p className="text-lg text-gray-300 mb-8 ml-4">
-               📍 Bichena Town
+               📍 Adiss Ababa Town
               </p>
               
               <div className="flex flex-wrap gap-4">
