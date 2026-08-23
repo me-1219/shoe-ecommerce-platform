@@ -407,9 +407,9 @@ export const mockUsers: User[] = [
   {
     id: 'u1',
     name: 'John Doe',
-    email: 'john.doe@example.com',
+    email: 'john@example.com',
     phone: '+251 91 234 5678',
-    role: 'customer',
+    role: 'admin',
     status: 'active',
     joinDate: '2025-08-15',
     totalOrders: 12,
